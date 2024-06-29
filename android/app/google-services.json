@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "929210020910",
+    "firebase_url": "https://gestionaccident-6d003-default-rtdb.firebaseio.com",
+    "project_id": "gestionaccident-6d003",
+    "storage_bucket": "gestionaccident-6d003.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:929210020910:android:31564bc35f4e0d89015bbf",
+        "android_client_info": {
+          "package_name": "com.example.gestion_acc"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAJV-b96wUFF6f4k9hgp8-n3CBZUg2sCwc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
